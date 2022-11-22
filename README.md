@@ -2,7 +2,7 @@
 #  [TrekTok 🚀](https://trektok.vercel.app/)
 
 TrekTok is a tik tok clone application.
-Why? because I needed some practice and fun :/
+Why? because I needed some TypeScript practice and fun :/
 
 
 ![Logo](https://trektok.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftrektok-logo.8584f192.png&w=1920&q=75)
